@@ -34,7 +34,7 @@
 }
 .welcome{
     background-color: #451207;
-    width: 1000px;
+    /*width: 1000px;*/
     display: flex;
     text-align: center;
     justify-content: center;
