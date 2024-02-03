@@ -71,24 +71,26 @@
 .bc{
     color: #fad033;
 }
-#back{
-#bk{
-    background: #23180d;
-    color: white;
-}
-.abs{
-    position: absolute;
-    align-items: center;
-    justify-content: space-around;
-    margin-left: 400px;
-}
-#bm{
-    margin-left: 650px;
-    position: absolute;
-    display: flex;
-    text-align: center;
-    margin-top: -50px;
+#back {
+    #bk {
+        background: #23180d;
+        color: white;
+    }
+
+    .abs {
+        position: absolute;
+        align-items: center;
+        justify-content: space-around;
+        margin-left: 400px;
+    }
+
+    #bm {
+        margin-left: 650px;
+        position: absolute;
+        display: flex;
+        text-align: center;
+        margin-top: -50px;
 
 
-
+    }
 }
